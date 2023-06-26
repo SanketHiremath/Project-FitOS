@@ -1,0 +1,15 @@
+lv_disp.h:182:26:lv_scr_act	1
+lv_api_map.h:35:51:lv_task_handler	1
+main.c:81:6:GC9A01_flush	1
+main.c:92:6:LV_Init	1
+main.c:112:6:hello_world	1
+main.c:142:5:main	1
+main.c:243:6:SystemClock_Config	4
+main.c:293:13:MX_SPI2_Init	2
+main.c:333:13:MX_USART2_UART_Init	2
+main.c:368:13:MX_GPIO_Init	1
+main.c:428:6:StartDefaultTask	1
+main.c:449:6:startLvglTask	1
+main.c:471:6:StartGuiTask	1
+main.c:490:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:507:6:Error_Handler	1
